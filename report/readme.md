@@ -3,25 +3,27 @@
 ## Введение. 
 
 Создание репозитория на GitHub:
-<img width="920" alt="2" src="https://github.com/Makarov1e/git-practice/assets/144479831/430f4759-2f33-450c-ad58-3efe479f904b">
-<img width="1032" alt="image" src="https://github.com/Makarov1e/git-practice/assets/144479831/fc5c612b-29f1-436a-8787-0f13bf73cc38">
-
-
+<img width="1032" alt="image" src="https://github.com/Makarov1e/git-practice/assets/144479831/6311c9e5-98de-4f52-9424-5113afbcf396">
 
 Клонирование репозитория:
-![Скриншот клонирования](assets/2.png)
+<img width="920" alt="2" src="https://github.com/Makarov1e/git-practice/assets/144479831/430f4759-2f33-450c-ad58-3efe479f904b">
 
-Добавление файла:
-![Скриншот добавления](assets/3.png)
 
 Создание ветки + редактирование файла:
-![Скриншот создания ветки](assets/4.png)
-![Скриншот слияния](assets/5.png)
+![image](https://github.com/Makarov1e/git-practice/assets/144479831/eaa99689-9481-43be-a0e0-1772f1638c19)
+
+![image](https://github.com/Makarov1e/git-practice/assets/144479831/a5db59c8-9f2b-41b2-87e6-beed19463ca2)
+
 
 ## Работа с ветками.
 
 Создание нового файла, ветки + внесенные изменения:
-![Скриншот работы с ветками](assets/6.png)
+![image](https://github.com/Makarov1e/git-practice/assets/144479831/d83a0f88-a4d0-4863-9d28-6987a0eb030b)
+![image](https://github.com/Makarov1e/git-practice/assets/144479831/b65daea2-8e29-4540-8ec7-27f657438ef3)
+![image](https://github.com/Makarov1e/git-practice/assets/144479831/fe92e5f9-e3c0-4b30-88ef-084dc611d78c)
+
+
+
 
 ## Работа с удаленным репозиторием.
 
