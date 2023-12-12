@@ -28,39 +28,50 @@
 ## Работа с удаленным репозиторием.
 
 Внесение изменений в основной ветке:
-![Скриншот работы с удаленным репо](assets/7.png)
+<img width="565" alt="image" src="https://github.com/Makarov1e/git-practice/assets/144479831/bfe3e48c-6d27-4179-b33c-70c0c234e160">
+
 
 ## Моделирование конфликта.
 
 Изменения главы №2:
-![Скриншот работы с конфликтом (моделирование)](assets/8.png)
+<img width="565" alt="image" src="https://github.com/Makarov1e/git-practice/assets/144479831/64971303-6113-484a-84cf-c2a60d3b44b0">
+
 
 ## Разрешение конфликта.
 
 Удаляем метки, пушим изменения:
-![Скриншот работы с конфликтом](assets/12.png)
+<img width="565" alt="image" src="https://github.com/Makarov1e/git-practice/assets/144479831/c7ccc48d-c962-49c1-ae0f-b1e8a3cb3355">
+
 
 ## Автоматизация проверки формата файлов при коммите.
 
 Создаем скрипт:
-![Скриншот работы со скриптом](assets/13.png)
-![Скриншот работы со скриптом №2](assets/15.png)
+<img width="1032" alt="image" src="https://github.com/Makarov1e/git-practice/assets/144479831/0ce6de39-41e0-4a82-baa3-c8bc0f370e8e">
+
+<img width="1032" alt="image" src="https://github.com/Makarov1e/git-practice/assets/144479831/a9de1ac1-663b-48a8-8a34-2dbc591b75b4">
+
 
 Сам скрипт:
-![Скриншот работы со скриптом №4](assets/23.png)
+<img width="758" alt="image" src="https://github.com/Makarov1e/git-practice/assets/144479831/9a29d7dc-4835-461c-9ba6-1ddf8f054666">
+
 
 
 ## Использование Git Flow в проекте.
 
 Установка __GitFlow__:
-![Скриншот установки GitFlow](assets/16.png)
+<img width="820" alt="image" src="https://github.com/Makarov1e/git-practice/assets/144479831/517307d0-ac00-44fa-b6f4-1d0f317365c6">
+
 
 Работаем с новыми ветками новых функциональностей при помощи __GitFlow__:
-![Скриншот работы с новыми ветками](assets/17.png)
+<img width="820" alt="image" src="https://github.com/Makarov1e/git-practice/assets/144479831/26839a2d-d58a-4b9f-8b18-4b23d31e341c">
+
 
 Вносим изменения в рабочий код, сохраняем и завершаем работу с фичей:
-![Скриншот работы с изменениями](assets/19.png)
+<img width="820" alt="image" src="https://github.com/Makarov1e/git-practice/assets/144479831/ea8d52bc-e8db-46bb-9835-2a88d5c180aa">
+
 
 Создаем релиз, завершаем его, подтягивая в ветки **main** и **develop** (develop = feature-login):
-![Скриншот работы с релизом](assets/20.png)
-![Скриншот работы с релизом №2](assets/21.png)
+<img width="820" alt="image" src="https://github.com/Makarov1e/git-practice/assets/144479831/02cf9afa-fdf2-464f-9642-5317347199f9">
+
+<img width="820" alt="image" src="https://github.com/Makarov1e/git-practice/assets/144479831/6807d6c0-7f9e-48de-889f-4b6934a94a79">
+
