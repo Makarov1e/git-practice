@@ -19,7 +19,7 @@
 
 Создание нового файла, ветки + внесенные изменения:
 ![image](https://github.com/Makarov1e/git-practice/assets/144479831/d83a0f88-a4d0-4863-9d28-6987a0eb030b)
-![image](https://github.com/Makarov1e/git-practice/assets/144479831/b65daea2-8e29-4540-8ec7-27f657438ef3)
+![image](https://github.com/Makarov1e/git-practice/assets/144479831/d0d9a01c-181f-4932-b644-c983079394b7)
 ![image](https://github.com/Makarov1e/git-practice/assets/144479831/fe92e5f9-e3c0-4b30-88ef-084dc611d78c)
 
 
